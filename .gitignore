@@ -1,0 +1,42 @@
+# Python Bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment Files
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Database Files
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+
+# IDE and Editor Config Files
+.vscode/
+.idea/
+*.swp
+
+# Browser Drivers
+chromedriver
+geckodriver
+
+# Test Reports
+reports/*.txt
+*.xml
+
+# Other Generated Files
+*.bak
+*.tmp
+*.cache
