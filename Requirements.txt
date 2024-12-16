@@ -1,0 +1,10 @@
+Flask==2.2.5            # For creating the vulnerable website
+Jinja2==3.1.2           # Flask templating engine
+Werkzeug==2.2.5         # Core component of Flask for handling requests
+SQLite3                 # Database for the web app (pre-installed in Python)
+requests==2.31.0        # For HTTP requests in vulnerability scanner
+beautifulsoup4==4.12.2  # For parsing and analyzing HTML
+selenium==4.15.0        # For browser-based XSS testing
+nmap==0.0.1             # For scanning open ports (requires Nmap installed on the system)
+cryptography==41.0.3    # For encryption-related functions
+colorama==0.4.6         # For colorful console output (optional but improves readability)
