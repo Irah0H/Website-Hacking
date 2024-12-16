@@ -1,0 +1,8 @@
+###  SQL Injection Tool:
+Testing payload: ' OR 1=1 --
+Payload successful! Login bypassed using SQL Injection.
+
+###   Password Brute-Forcer:
+Trying: admin123
+Trying: password
+Password found: password
